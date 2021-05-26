@@ -18,7 +18,7 @@ Cool things about vim.
 + [night-owl](https://github.com/haishanh/night-owl.vim)
 + [tokyonight](https://github.com/folke/tokyonight.nvim)
 + [tender](https://github.com/jacoborus/tender.vim)
-+ [srcery](https://github.com/srcery-colors/srcery-vim)+ 
++ [srcery](https://github.com/srcery-colors/srcery-vim)
 + [badwolf](https://github.com/sjl/badwolf)
 
 # Recipes
