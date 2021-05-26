@@ -34,6 +34,11 @@ Cool things about vim.
   set -g default-terminal 'screen-256color'
   set -ga terminal-overrides ',*256col*:Tc'
   ```
++ Key macro
+  + Type `qa` in `normal` mode to recording. (`a` is our register that we save our key presses)
+  + Do your thing.
+  + Back to normal mode. Press `q` to stop recording. 
+  + Type `@a` or you can type `x@a` to do `x` times the same thing.
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
