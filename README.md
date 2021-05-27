@@ -1,7 +1,7 @@
 # Bible of vim
 Cool things about vim.
 
-# Must to have plugins
+# Must have plugins
 + [vim-plug](https://github.com/junegunn/vim-plug)
 + [coc.nvim](https://github.com/neoclide/coc.nvim)
 + [fzf.vim](https://github.com/junegunn/fzf.vim)
