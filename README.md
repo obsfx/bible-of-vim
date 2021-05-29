@@ -39,6 +39,7 @@ Cool things about vim.
   + Do your thing.
   + Back to normal mode. Press `q` to stop recording. 
   + Type `@a` or you can type `x@a` to do `x` times the same thing.
++ Open vim directly in fugitive `nvim -c 'G | wincmd j | hide' .`
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
