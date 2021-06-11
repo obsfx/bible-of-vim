@@ -43,6 +43,7 @@ Cool things about vim.
 + `:stop` suspend and `fg` revoke
 + `ctrl + g` see the full filename
 + `q:` see command history
++ `<C-w>T` move to tab
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
