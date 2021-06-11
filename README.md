@@ -45,6 +45,7 @@ Cool things about vim.
 + `q:` see command history
 + `<C-w>T` move to tab
 + `Shift-Up to Ctrl-Y and Shift-Down to Ctrl-E`
++ `:set statusline=%{synIDattr(synIDtrans(synID(line('.'),col('.'),1)),'name')}` see the hlgroup under the cursor
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
