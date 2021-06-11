@@ -44,6 +44,7 @@ Cool things about vim.
 + `ctrl + g` see the full filename
 + `q:` see command history
 + `<C-w>T` move to tab
++ `Shift-Up to Ctrl-Y and Shift-Down to Ctrl-E`
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
