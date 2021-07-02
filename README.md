@@ -9,6 +9,8 @@ Cool things about vim.
 + [vim-fugitive](https://github.com/tpope/vim-fugitive)
 
 # Color schemes
++ [lucidity](https://github.com/usirin/lucidity)
++ [bleed-purple](https://github.com/usirin/bleed-purple.nvim)
 + [Gruvbox](https://github.com/morhetz/gruvbox)
 + [Gruvbox Community](https://github.com/gruvbox-community/gruvbox)
 + [Spaceduck](https://github.com/pineapplegiant/spaceduck)
