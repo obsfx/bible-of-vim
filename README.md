@@ -37,7 +37,7 @@ Cool things about vim.
   set -ga terminal-overrides ',*256col*:Tc'
   ```
 + Key macro
-  + Type `qa` in `normal` mode to recording. (`a` is our register that we save our key presses)
+  + Type `qa` in `normal` mode to record. (`a` is our register that we save our key presses)
   + Do your thing.
   + Back to normal mode. Press `q` to stop recording. 
   + Type `@a` or you can type `x@a` to do `x` times the same thing.
@@ -47,7 +47,12 @@ Cool things about vim.
 + `q:` see command history
 + `<C-w>T` move to tab
 + `Shift-Up to Ctrl-Y and Shift-Down to Ctrl-E`
-+ `:set statusline=%{synIDattr(synIDtrans(synID(line('.'),col('.'),1)),'name')}` see the hlgroup under the cursor
++ `:set statusline=%{synIDattr(synIDtrans(synID(line('.'),col('.'),1)),'name')}` see the hlgroup under the cursor.
++ `ma` mark the position to a register then `'a` to get back to the marked position.
++ to start vim in sudo mode with your config, add this line to your .zshrc or .bashrc or whatever
+   ```
+      export SUDO_EDITOR="nvim"
+   ``` 
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
