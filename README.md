@@ -53,6 +53,7 @@ Cool things about vim.
    ```
       export SUDO_EDITOR="nvim"
    ``` 
++ `J` concat the lines
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
