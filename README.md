@@ -58,6 +58,13 @@ Cool things about vim.
 + `:verbose map <C-i>` debug the keymap
 + `ctrl-o` | `ctrl-i` jump between buffers
 + `gf` go file
++ useful `netrw` keybindings
+  + `p` preview file
+  + `t` open in new tab
+  + `r` reorder
+  + `d` make directory
+  + `i` change view mode
+  + `shift+cr` expand folder in tree view
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
