@@ -22,6 +22,7 @@ Cool things about vim.
 + [tender](https://github.com/jacoborus/tender.vim)
 + [srcery](https://github.com/srcery-colors/srcery-vim)
 + [badwolf](https://github.com/sjl/badwolf)
++ [xcode](https://github.com/arzg/vim-colors-xcode)
 
 # Recipes
 + tmux + nvim true color issue solution
@@ -54,6 +55,8 @@ Cool things about vim.
       export SUDO_EDITOR="nvim"
    ``` 
 + `J` concat the lines
++ `:verbose map <C-i>` debug the keymap
++ `ctrl-o` | `ctrl-i` jump between buffers
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
