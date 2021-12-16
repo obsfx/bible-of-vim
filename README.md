@@ -57,6 +57,7 @@ Cool things about vim.
 + `J` concat the lines
 + `:verbose map <C-i>` debug the keymap
 + `ctrl-o` | `ctrl-i` jump between buffers
++ `gf` go file
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
