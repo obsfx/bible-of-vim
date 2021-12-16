@@ -65,6 +65,7 @@ Cool things about vim.
   + `d` make directory
   + `i` change view mode
   + `shift+cr` expand folder in tree view
++ `:read` yank from a file and paste directly to the current file
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
