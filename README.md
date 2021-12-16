@@ -56,7 +56,7 @@ Cool things about vim.
    ``` 
 + `J` concat the lines
 + `:verbose map <C-i>` debug the keymap
-+ `ctrl-o` | `ctrl-i` jump between buffers
++ `ctrl-o` | `ctrl-i` jump between "jump list", a list of places where your cursor has been to
 + `gf` go file
 + useful `netrw` keybindings
   + `p` preview file
