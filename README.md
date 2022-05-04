@@ -50,7 +50,7 @@ Cool things about vim.
 + `Shift-Up to Ctrl-Y and Shift-Down to Ctrl-E`
 + `:set statusline=%{synIDattr(synIDtrans(synID(line('.'),col('.'),1)),'name')}` see the hlgroup under the cursor.
 + `ma` mark the position to a register then `'a` to get back to the marked position.
-+ to start vim in sudo mode with your config, add this line to your .zshrc or .bashrc or whatever
++ to start vim in sudo mode with your config, add this line to your .zshrc or .bashrc
    ```
       export SUDO_EDITOR="nvim"
    ``` 
