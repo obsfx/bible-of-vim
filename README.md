@@ -2,17 +2,22 @@
 Cool things about vim.
 
 # Must have plugins
-+ [vim-plug](https://github.com/junegunn/vim-plug)
++ [vim-plug](https://github.com/junegunn/vim-plug) - *Old*
++ [packer.nvim](https://github.com/wbthomason/packer.nvim) - **Recommended**
 + [coc.nvim](https://github.com/neoclide/coc.nvim)
-+ [fzf.vim](https://github.com/junegunn/fzf.vim)
++ [fzf.vim](https://github.com/junegunn/fzf.vim) - *Old*
++ [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - **Recommended**
 + [vim-surround](https://github.com/tpope/vim-surround)
 + [vim-fugitive](https://github.com/tpope/vim-fugitive)
++ [ultisnips](https://github.com/SirVer/ultisnips) 
++ [auto-pairs](https://github.com/jiangmiao/auto-pairs)
 
 # Color schemes
 + [lucidity](https://github.com/usirin/lucidity)
 + [bleed-purple](https://github.com/usirin/bleed-purple.nvim)
 + [Gruvbox](https://github.com/morhetz/gruvbox)
 + [Gruvbox Community](https://github.com/gruvbox-community/gruvbox)
++ [vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) **Recommended**
 + [Spaceduck](https://github.com/pineapplegiant/spaceduck)
 + [Moonfly](https://github.com/bluz71/vim-moonfly-colors)
 + [Lucid](https://github.com/cseelus/vim-colors-lucid)
@@ -66,7 +71,8 @@ Cool things about vim.
   + `i` change view mode
   + `shift+cr` expand folder in tree view
 + `:read` yank from a file and paste directly to the current file
-+ A `buffer` is a value and a `window` contains the refrence of a buffer.
++ A `buffer` is a value and a `window` contains the reference of a buffer.
++ When you need to rememder a autocmd look here http://vimdoc.sourceforge.net/htmldoc/autocmd.html
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
