@@ -14,10 +14,10 @@ Cool things about vim.
 
 # Color schemes
 + [lucidity](https://github.com/usirin/lucidity)
-+ [bleed-purple](https://github.com/usirin/bleed-purple.nvim)
++ [bleed-purple](https://github.com/usirin/bleed-purple.nvim) - **Recommended**
 + [Gruvbox](https://github.com/morhetz/gruvbox)
 + [Gruvbox Community](https://github.com/gruvbox-community/gruvbox)
-+ [vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) **Recommended**
++ [vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) - **Recommended**
 + [Spaceduck](https://github.com/pineapplegiant/spaceduck)
 + [Moonfly](https://github.com/bluz71/vim-moonfly-colors)
 + [Lucid](https://github.com/cseelus/vim-colors-lucid)
