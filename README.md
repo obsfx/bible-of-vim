@@ -66,6 +66,7 @@ Cool things about vim.
   + `i` change view mode
   + `shift+cr` expand folder in tree view
 + `:read` yank from a file and paste directly to the current file
++ A `buffer` is a value and a `window` contains the refrence of a buffer.
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
