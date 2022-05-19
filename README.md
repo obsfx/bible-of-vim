@@ -18,10 +18,8 @@ Cool things about vim.
 + [Gruvbox](https://github.com/morhetz/gruvbox)
 + [Gruvbox Community](https://github.com/gruvbox-community/gruvbox)
 + [vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) - **Recommended**
-+ [Spaceduck](https://github.com/pineapplegiant/spaceduck)
 + [Moonfly](https://github.com/bluz71/vim-moonfly-colors)
 + [Lucid](https://github.com/cseelus/vim-colors-lucid)
-+ [Jellybeans](https://github.com/nanotech/jellybeans.vim)
 + [night-owl](https://github.com/haishanh/night-owl.vim)
 + [tokyonight](https://github.com/folke/tokyonight.nvim)
 + [tender](https://github.com/jacoborus/tender.vim)
