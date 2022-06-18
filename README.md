@@ -72,7 +72,7 @@ Cool things about vim.
 + A `buffer` is a value and a `window` contains the reference of a buffer.
 + When you need to rememder a autocmd look here http://vimdoc.sourceforge.net/htmldoc/autocmd.html
 + positioning quick fix window https://stackoverflow.com/questions/16743112/open-item-from-quickfix-window-in-vertical-split
-  -> It opens the error/location in an horizontal window (<C-w><Enter>) and turns it into a vertical window (<C-w>L).
+  + -> It opens the error/location in an horizontal window `(<C-w><Enter>)` and turns it into a vertical window `(<C-w>L)`.
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
