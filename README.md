@@ -73,6 +73,10 @@ Cool things about vim.
 + When you need to rememder a autocmd look here http://vimdoc.sourceforge.net/htmldoc/autocmd.html
 + positioning quick fix window https://stackoverflow.com/questions/16743112/open-item-from-quickfix-window-in-vertical-split
   + -> It opens the error/location in an horizontal window `(<C-w><Enter>)` and turns it into a vertical window `(<C-w>L)`.
++ -> Grep and replace with telescope
+  - `:Telescope live_grep`
+  - search and hit `<C-q>`
+  - then `:cdo s/search/replace/g`
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
