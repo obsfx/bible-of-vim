@@ -26,6 +26,8 @@ Cool things about vim.
 + [srcery](https://github.com/srcery-colors/srcery-vim)
 + [badwolf](https://github.com/sjl/badwolf)
 + [xcode](https://github.com/arzg/vim-colors-xcode)
++ [kanagawa](https://github.com/rebelot/kanagawa.nvim)
++ [paramount](https://github.com/owickstrom/vim-colors-paramount)
 
 # Recipes
 + tmux + nvim true color issue solution
