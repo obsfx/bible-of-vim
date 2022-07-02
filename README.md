@@ -79,6 +79,7 @@ Cool things about vim.
   - `:Telescope live_grep`
   - search and hit `<C-q>`
   - then `:cdo s/search/replace/g`
++ `#` -> directly search the thing under the cursor
 
 # Cool talks
 + Mastering the Vim Language https://www.youtube.com/watch?v=wlR5gYd6um0
